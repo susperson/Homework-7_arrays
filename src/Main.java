@@ -70,7 +70,7 @@ public class Main {
             }
             System.out.print(arrayInt[i]);
             if (i != arrayInt.length - 1) {
-                    System.out.print(", ");
+                System.out.print(", ");
             }
         }
     }
